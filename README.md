@@ -499,4 +499,4 @@ Capture clear screenshots with annotations to explain each step.
 
 
 ## 📄 License
-All Rights Reserved © 2025 **Amr Elsagaei (AmrSec)**.
+All Rights Reserved © 2025 **Jagat Singh (MJCSECURITY)**.
