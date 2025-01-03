@@ -12,8 +12,8 @@
 
 <br>
 <div style="text-align: center;">
-    <a href="https://youtu.be/bAHNM8IInwE" target="_blank">
-        <img src="https://blog.amrelsagaei.com/storage/posts/webp/bug-bounty-metho-2025.webp" alt="Bug Bounty Methodology 2025 Edition" style="width: 100%;">
+    <a href="https://youtu.be/@mjc-security" target="_blank">
+        <img src="[https://blog.amrelsagaei.com/storage/posts/webp/bug-bounty-metho-2025.webp](https://media.licdn.com/dms/image/v2/C4D16AQF3sKj7dNYQOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661256639100?e=1741219200&v=beta&t=T1xZ_G06whi3rjVsfF3rjPDMjdyH2PMgD_jNQ7B70pk)" alt="Bug Bounty Methodology 2025 Edition" style="width: 100%;">
     </a>
 </div>
 <div align="left">
