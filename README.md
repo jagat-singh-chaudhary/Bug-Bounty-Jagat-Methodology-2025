@@ -12,12 +12,12 @@
 
 <br>
 <div style="text-align: center;">
-    <a href="https://youtu.be/shorts/v50yybr_xg4" target="_blank">
+    <a href="https://youtube.com/shorts/v50yybr_xg4?feature=share" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/C4D16AQF3sKj7dNYQOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661256639100?e=1741219200&v=beta&t=T1xZ_G06whi3rjVsfF3rjPDMjdyH2PMgD_jNQ7B70pk" alt="Bug Bounty Methodology 2025 Edition" style="width: 100%;">
     </a>
 </div>
 <div align="left">
-Welcome to the <strong>Bug Bounty Methodology 2025 Edition</strong>! This methodology is a basic guide to help you kickstart your bug bounty journey. It outlines the essential steps to navigate your target effectively, but the real challenge lies in identifying high-impact vulnerabilities through your own skills and creativity. This methodology will be updated regularly as new and interesting techniques emerge to enhance your testing process.
+Welcome to the <strong>Bug Bounty Jagat Methodology 2025 Edition</strong>! This methodology is a basic guide to help you kickstart your bug bounty journey. It outlines the essential steps to navigate your target effectively, but the real challenge lies in identifying high-impact vulnerabilities through your own skills and creativity. This methodology will be updated regularly as new and interesting techniques emerge to enhance your testing process.
 </div>
 
 
