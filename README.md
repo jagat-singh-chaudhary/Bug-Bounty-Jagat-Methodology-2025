@@ -7,7 +7,7 @@
 [![YouTube](https://img.shields.io/badge/mjc-security-c00?logo=youtube&logoColor=white)](https://www.youtube.com/@mjc-security)
 [![Twitter](https://img.shields.io/badge/amrelsagaei-black?logo=X)](https://twitter.com/amrelsagaei)
 [![Telegram](https://img.shields.io/badge/MJCSECURITY-0088CC?logo=telegram&logoColor=white)](https://t.me/MJCSECURITY)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jagat-singh-0073e3?logo=linkedin&labelColor=white)](https://www.linkedin.com/in/jagat-singh-b824701b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jagat-singh-b824701b8-0073e3?logo=linkedin&labelColor=white)](https://www.linkedin.com/in/jagat-singh-b824701b8)
 
 </div>
 
