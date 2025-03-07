@@ -497,6 +497,11 @@ Capture clear screenshots with annotations to explain each step.
 
 <br>
 
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/jagatsingh](https://buymeacoffee.com/jagatsingh)
 
 ## 📄 License
 All Rights Reserved © 2025 **Jagat Singh (MJCSECURITY)**.
